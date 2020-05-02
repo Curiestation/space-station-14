@@ -13,7 +13,7 @@
     public class EntryPoint : GameShared
     {
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "fr-FR";
 
 #pragma warning disable 649
         [Dependency] private readonly IPrototypeManager _prototypeManager;
