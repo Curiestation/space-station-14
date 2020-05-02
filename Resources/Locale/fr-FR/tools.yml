@@ -1,0 +1,28 @@
+#
+# Traduction française par le groupe Space Station 13 France
+#
+
+- msgid: Wirecutter
+  msgstr: Pince coupante
+- msgid: This kills the wire.
+  msgstr: Une pince qui coupe.
+
+- msgid: Screwdriver
+  msgstr: Tournevis
+- msgid: Industrial grade torque in a small screwdriving package
+  msgstr: Une torsion de qualité industrielle en petit format.
+
+- msgid: Welding Tool
+  msgstr: Fer à souder
+- msgid: Melts anything as long as it's fueled, don't forget your eye protection!
+  msgstr: Fait fondre n'importe quoi tant qu'il est alimenté. Faites attention à vos yeux !
+
+- msgid: Wrench
+  msgstr: Clé à molette
+- msgid: A common tool for assembly and disassembly, righty tighty lefty loosey
+  msgstr: Un outil standard le montage et le démontage. À droite ça serre, à gauche ça déserre.
+
+- msgid: Multitool
+  msgstr: Multioutil
+- msgid: An advanced tool to copy, store, and send electrical pulses and signals through wires and machines
+  msgstr: Un outil performant pour copier, stocker et envoyer des impulsions et des signaux électriques à travers des câbles et des machines.
